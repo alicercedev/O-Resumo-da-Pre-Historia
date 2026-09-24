@@ -35,7 +35,7 @@ Cada seção apresenta **objetos, datas e eventos interativos**, permitindo ao u
 
 - [@BenicyoDEV](https://github.com/BenicyoDEV)  
 - [@arthurleon44](https://github.com/arthurleon44)  
-- [@cieldeveloper](https://github.com/cieldeveloper)  
+- [@cieldeveloper](https://github.com/alicercedev)  
 - [@vinicius-J-Santos](https://github.com/vinicius-J-Santos)  
 
 ---
